@@ -17,7 +17,7 @@ __Семинар 1.__ Введение в машинное обучение. Ipy
 * [Ipython notebook с семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/seminar1_intro.ipynb)
 * [Ссылка на опрос, который всех попросили пройти](https://goo.gl/forms/EpBjdfWbZU)
 
-_Рекомендуемое домашнее задание:_ установить jupiter notebook, прочитать notebook с семинара и нарисовать график функции в matplotlib (см. в конце ноутбука).
+_Рекомендуемое домашнее задание:_ установить [jupyter notebook](http://jupyter.org/), прочитать notebook с семинара и нарисовать график функции в matplotlib (см. в конце ноутбука).
 
 __Семинар 2.__ NumPy.
 
