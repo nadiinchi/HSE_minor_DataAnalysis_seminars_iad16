@@ -5,7 +5,7 @@
 __Семинар 1.__ Введение в машинное обучение. Ipython notebook и matplotlib.
 * [Конспект семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/seminar1_HSE.ipynb)
 * [Ipython notebook с семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/seminar1_intro.ipynb)
-* [Ссылка на опрос, который всех попросили пройти](goo.gl/forms/EpBjdfWbZU)
+* [Ссылка на опрос, который всех попросили пройти](https://goo.gl/forms/EpBjdfWbZU)
 
 __Семинар 2.__ NumPy.
 
