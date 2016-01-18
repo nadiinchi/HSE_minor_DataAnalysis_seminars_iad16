@@ -26,7 +26,7 @@ __Семинар 9.__ Линейная классификация II: SVM.
 __Семинар 10.__ Оценивание качества алгоритмов и метрики
 
 ## Полезные ссылки
-* [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)\n
+* [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
 * [Видеозаписи курса лекций К. В. Воронцова](https://yandexdataschool.ru/edu-process/courses/machine-learning)
 * [Лекции Andrew Ng на coursera.org](https://www.coursera.org/learn/machine-learning): начинается 25 января, но практические задания на языке MATLAB/Octave
 * [Вводный курс К. В. Воронцова на coursera.org](https://www.coursera.org/learn/introduction-machine-learning): на русском языке, начинается 26 января, практические задания на языке Python
