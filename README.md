@@ -5,6 +5,8 @@
 
 [Страница курса на вики ВШЭ](http://wiki.cs.hse.ru/%D0%9C%D0%B0%D0%B9%D0%BD%D0%BE%D1%80_%D0%98%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 
+[Таблица с результатами](https://docs.google.com/spreadsheets/d/1jZL_-ELf0Ogj2XHa6VVbkg8vrInycv2-Z9UR5keLDfM/edit#gid=608545491)
+
 Адрес для отправки домашних заданий, вопросов по заданиям и по курсу: _hse.minor.dm+16@gmail.com_
 
 ## Правила игры
@@ -18,6 +20,10 @@
 
 За плагиат будем __~~выпарывать~~ строго наказывать обе стороны__ (вот тут  можно уйти в минус). В случае наличия подозрений к присланному решению будем устраивать беседу со сдавшим с вопросами по коду и заданию.
 
+## Домашние задания
+* [Домашнее задание 1](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/HomeWork1.ipynb). Выдано 28.01.16, дедлайн __23:59 10.02.16__.
+
+
 ## План семинаров (первый модуль):
 
 __Семинар 1.__ Введение в машинное обучение. Ipython notebook и matplotlib.
@@ -28,8 +34,14 @@ __Семинар 1.__ Введение в машинное обучение. Ipy
 _Рекомендуемое домашнее задание:_ установить [jupyter notebook](http://jupyter.org/), прочитать notebook с семинара и нарисовать график функции в matplotlib (см. в конце ноутбука).
 
 __Семинар 2.__ NumPy.
+* [Конспект с семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/Sem2_NumPy.ipynb)
 
-__Семинар 3.__ Pandas. Визуализация.
+Хороший [туториал](http://nbviewer.jupyter.org/github/Atlas7/scipy-tentative-numpy-tutorials/blob/master/tentative-numpy-tutorial.ipynb) по numpy.
+
+__Семинар 3.__ Проверочная по python и matplotlib. Pandas. Знакомство с данными.
+* [Конспект семинара + Проверочная](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/Seminar3_pandas.ipynb)
+* [Данные для проверочной](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/russian_weather.txt),
+[данные для семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/road_data.csv)
 
 __Семинар 4.__ Матричное дифференцирование. Выпуклость. Градиентный спуск.
 
