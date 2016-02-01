@@ -42,7 +42,7 @@ __Семинар 3.__ Проверочная по python и matplotlib. Pandas. 
 * [Конспект семинара + Проверочная](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/Seminar3_pandas.ipynb)
 * [Данные для проверочной](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/russian_weather.txt),
 [данные для семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/road_data.csv)
-* [Решение проверочной и ликбез по python](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/HomeWork1_.ipynb)
+* [Решение проверочной и ликбез по python](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/Test1_solution.ipynb)
 
 __Семинар 4.__ Матричное дифференцирование. Выпуклость. Градиентный спуск.
 
