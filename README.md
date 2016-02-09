@@ -47,6 +47,8 @@ __Семинар 3.__ Проверочная по python и matplotlib. Pandas. 
 __Семинар 4.__ Матричное дифференцирование. Выпуклость. Градиентный спуск.
 
 __Семинар 5.__ Sklearn. Метрические классификаторы: kNN. 
+* [Конспект семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/seminar5_sklearn_kNN.ipynb)
+* [Документация sklearn](http://scikit-learn.org/stable/documentation.html)
 
 __Семинар 6.__ Метод максимального правдоподобия. Генерация случайных выборок. Бутстреп. Наивный байесовский классификатор.
 
