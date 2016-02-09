@@ -21,7 +21,7 @@
 За плагиат будем __~~выпарывать~~ строго наказывать обе стороны__ (вот тут  можно уйти в минус). В случае наличия подозрений к присланному решению будем устраивать беседу со сдавшим с вопросами по коду и заданию.
 
 ## Домашние задания
-* [Домашнее задание 1](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/HomeWork1_.ipynb). Выдано 28.01.16, дедлайн __23:59 10.02.16__.
+* [Домашнее задание 1](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/HomeWork1_.ipynb). Выдано 28.01.16, дедлайн __23:59 10.02.16__. [Дополнительный материал по numpy и pandas](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/additions_np_pd.ipynb)
 
 
 ## План семинаров (первый модуль):
