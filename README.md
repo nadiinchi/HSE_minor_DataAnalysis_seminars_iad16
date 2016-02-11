@@ -21,33 +21,34 @@
 За плагиат будем __~~выпарывать~~ строго наказывать обе стороны__ (вот тут  можно уйти в минус). В случае наличия подозрений к присланному решению будем устраивать беседу со сдавшим с вопросами по коду и заданию.
 
 ## Домашние задания
-* [Домашнее задание 1](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/HomeWork1_.ipynb). Выдано 28.01.16, дедлайн __23:59 10.02.16__. [Дополнительный материал по numpy и pandas](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/additions_np_pd.ipynb)
+* [Домашнее задание 1](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/HomeWork1_.ipynb). Выдано 28.01.16, дедлайн __23:59 10.02.16__. [Дополнительный материал по numpy и pandas](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/additions_np_pd.ipynb)
 
 
 ## План семинаров (первый модуль):
 
 __Семинар 1.__ Введение в машинное обучение. Ipython notebook и matplotlib.
-* [Конспект семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/seminar1_HSE.ipynb)
-* [Ipython notebook с семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/seminar1_intro.ipynb)
+* [Конспект семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/seminar1_HSE.ipynb)
+* [Ipython notebook с семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/seminar1_intro.ipynb)
 * [Ссылка на опрос, который всех попросили пройти](https://goo.gl/forms/EpBjdfWbZU)
 
 _Рекомендуемое домашнее задание:_ установить [jupyter notebook](http://jupyter.org/), прочитать notebook с семинара и нарисовать график функции в matplotlib (см. в конце ноутбука).
 
 __Семинар 2.__ NumPy.
-* [Конспект с семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/Sem2_NumPy.ipynb)
+* [Конспект с семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Sem2_NumPy.ipynb)
 
 Хороший [туториал](http://nbviewer.jupyter.org/github/Atlas7/scipy-tentative-numpy-tutorials/blob/master/tentative-numpy-tutorial.ipynb) по numpy.
 
 __Семинар 3.__ Проверочная по python и matplotlib. Pandas. Знакомство с данными.
-* [Конспект семинара + Проверочная](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/Seminar3_pandas.ipynb)
-* [Данные для проверочной](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/russian_weather.txt),
-[данные для семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/road_data.csv)
-* [Решение проверочной и ликбез по python](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/Test1_solution.ipynb)
+* [Конспект семинара + Проверочная](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Seminar3_pandas.ipynb)
+* [Данные для проверочной](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/russian_weather.txt),
+[данные для семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/road_data.csv)
+* [Решение проверочной и ликбез по python](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Test1_solution.ipynb)
 
 __Семинар 4.__ Матричное дифференцирование. Выпуклость. Градиентный спуск.
+* [Конспект семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/sem4_optimization.pdf)
 
 __Семинар 5.__ Sklearn. Метрические классификаторы: kNN. 
-* [Конспект семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/seminar5_sklearn_kNN.ipynb)
+* [Конспект семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/seminar5_sklearn_kNN.ipynb)
 * [Документация sklearn](http://scikit-learn.org/stable/documentation.html)
 
 __Семинар 6.__ Метод максимального правдоподобия. Генерация случайных выборок. Бутстреп. Наивный байесовский классификатор.
