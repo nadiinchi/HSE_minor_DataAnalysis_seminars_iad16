@@ -51,7 +51,9 @@ __Семинар 5.__ Sklearn. Метрические классификатор
 * [Конспект семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/seminar5_sklearn_kNN.ipynb)
 * [Документация sklearn](http://scikit-learn.org/stable/documentation.html)
 
-__Семинар 6.__ Метод максимального правдоподобия. Генерация случайных выборок. Бутстреп. Наивный байесовский классификатор.
+__Семинар 6.__ Метод максимального правдоподобия. Генерация случайных выборок. Наивный байесовский классификатор.
+* [Конспект теоретической части](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/seminar6_MS_NB.pdf)
+* [Конспект практической части](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/seminar6_NB.ipynb)
 
 __Семинар 7.__ Линейная классификация I.
 
