@@ -56,11 +56,10 @@ __Семинар 6.__ Метод максимального правдоподо
 * [Конспект теоретической части](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/seminar6_MS_NB.pdf)
 * [Конспект практической части](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/seminar6_NB.ipynb)
 
-__Семинар 7.__ Линейная классификация I.
+__Семинар 7.__ Линейная регрессия.
+* [Слайды](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/sem7_LinearRegression.pdf)
 
-__Семинар 8.__ Линейная регрессия. 
-
-__Семинар 9.__ Линейная классификация II: SVM.
+__Семинар 9.__ Линейная классификация.
 
 __Семинар 10.__ Оценивание качества алгоритмов и метрики
 
