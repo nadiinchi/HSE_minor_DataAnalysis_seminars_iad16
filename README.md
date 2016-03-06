@@ -70,5 +70,4 @@ __Семинар 10.__ Оценивание качества алгоритмо�
 * [Лекции Andrew Ng на coursera.org](https://www.coursera.org/learn/machine-learning): начинается 25 января, но практические задания на языке MATLAB/Octave
 * [Вводный курс К. В. Воронцова на coursera.org](https://www.coursera.org/learn/introduction-machine-learning): на русском языке, начинается 26 января, практические задания на языке Python
 * [https://www.dataquest.io](https://www.dataquest.io): сайт с интерактивными заданиями по Python для анализа данных
-* [Pattern Recognition and Machine Learning by C. Bishop](http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf): очень продвинутая книга для особо желающих
-
+* [Pattern Recognition and Machine Learning by C. Bishop](http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf): довольно продвинутая книга для особо желающих.
