@@ -23,7 +23,7 @@
 
 ## Домашние задания
 * [Домашнее задание 1](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/HomeWork1_.ipynb). Выдано 28.01.16, дедлайн __23:59 10.02.16__. [Дополнительный материал по numpy и pandas](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/additions_np_pd.ipynb)
-* [Домашнее задание 2](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/HW2.pdf), [notebook](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/HW2_notebook.ipynb). Выдано 24.02.16, дедлайн __23:59 9.03.16__.
+* [Домашнее задание 2](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/HW2.pdf), [notebook](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/HW2_notebook.ipynb). Выдано 24.02.16, дедлайн __23:59 ~~9.03.16~~ 12.03.16__.
 
 
 ## План семинаров (первый модуль):
