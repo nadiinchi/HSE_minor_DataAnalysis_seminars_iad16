@@ -26,6 +26,10 @@
 * [Домашнее задание 2](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/HW2.pdf), [notebook](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/HW2_notebook.ipynb). Выдано 24.02.16, дедлайн __23:59 ~~9.03.16~~ 12.03.16__.
 * Домашнее задание 3 (материалы на почте). Выдано 14.03.16, дедлайн __23:59 27.03.16__.
 
+## Проекты
+* [Информация про проекты](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Projects_info.md)
+* [Материалы первой консультации (подготовка и визуализация данных)](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/projects_cons1.ipynb)
+* __Дедлайн по первому заданию:__ нужно прислать .ipynb и .csv до зачета.
 
 ## План семинаров (первый модуль):
 
