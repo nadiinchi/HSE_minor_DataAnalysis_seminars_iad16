@@ -52,7 +52,7 @@ __Семинар 3.__ Проверочная по python и matplotlib. Pandas. 
 [данные для семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/road_data.csv)
 * [Решение проверочной и ликбез по python](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Test1_solution.ipynb)
 
-__Семинар 4.__ Матричное дифференцирование. Выпуклость. Градиентный спуск.
+__Семинар 4.__ Векторное дифференцирование. Градиентный спуск.
 * [Конспект семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/sem4_optimization.pdf)
 
 __Семинар 5.__ Sklearn. Метрические классификаторы: kNN. 
