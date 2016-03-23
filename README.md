@@ -69,8 +69,9 @@ __Семинар 7.__ Линейная регрессия.
 __Семинар 8.__ Линейная классификация.
 * [Слайды](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/sem8.pdf)
 
-__Семинар 10.__ Оценивание качества алгоритмов и метрики
-
+__Семинар 10.__ API. Метрики качества.
+* [Ноутбук](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/sem10.ipynb)
+* [Ответы на вопросы 27−30](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/colloq_metrics.pdf) (могут быть опечатки)
 
 ## Полезные ссылки
 * [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
