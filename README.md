@@ -30,7 +30,7 @@
 * [Информация про проекты](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Projects_info.md)
 * [Материалы первой консультации (подготовка и визуализация данных)](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/projects_cons1.ipynb)
 * [Данные для предсказания зарплаты](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/salary_project.md)
-* __Дедлайн по первому заданию:__ нужно прислать .ipynb и .csv до зачета.
+* __Дедлайн по первой части проекта:__ 10 апреля (позже сдать будет нельзя).
 
 ## План семинаров (первый модуль):
 
