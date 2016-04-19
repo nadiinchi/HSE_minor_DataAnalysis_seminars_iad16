@@ -73,6 +73,11 @@ __Семинар 10.__ API. Метрики качества.
 * [Ноутбук](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/sem10.ipynb)
 * [Ответы на вопросы 27−30](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/colloq_metrics.pdf) (могут быть опечатки)
 
+__Семинар 11.__ Игровой семинар - повторение 1 модуля.
+
+__семинар 12.__ Decision Trees
+* [Данные для работы на семинаре](https://yadi.sk/d/evOgV8fnr7Ly4)
+
 ## Полезные ссылки
 * [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
 * [Видеозаписи курса лекций К. В. Воронцова](https://yandexdataschool.ru/edu-process/courses/machine-learning)
