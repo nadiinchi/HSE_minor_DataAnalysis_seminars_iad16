@@ -79,6 +79,7 @@ __Семинар 11.__ Игровой семинар - повторение 1 м
 
 __семинар 12.__ Decision Trees
 * [Данные для работы на семинаре](https://yadi.sk/d/evOgV8fnr7Ly4)
+* [Ноутбук с семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/seminar_b1.ipynb)
 
 ## Полезные ссылки
 * [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
