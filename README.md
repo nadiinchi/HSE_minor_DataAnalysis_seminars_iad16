@@ -81,6 +81,13 @@ __семинар 12.__ Decision Trees
 * [Данные для работы на семинаре](https://yadi.sk/d/evOgV8fnr7Ly4)
 * [Ноутбук с семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/seminar_b1.ipynb)
 
+__Семинар 13.__ Методы отбора признаков и понижения размерности
+* (скоро добавим материалы)
+
+__Семинар 14.__ Кластеризация.
+* [Данные](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/sem_b3_coord.csv)
+* [Пейзаж](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/sem_b3_nature.jpg)
+
 ## Полезные ссылки
 * [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
 * [Видеозаписи курса лекций К. В. Воронцова](https://yandexdataschool.ru/edu-process/courses/machine-learning)
