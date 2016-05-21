@@ -84,9 +84,10 @@ __семинар 12.__ Decision Trees
 __Семинар 13.__ Методы отбора признаков и понижения размерности
 * (скоро добавим материалы)
 
-__Семинар 14.__ Кластеризация.
+__Семинар 14.__ K-means своими руками.
 * [Данные](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/sem_b3_coord.csv)
 * [Пейзаж](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/sem_b3_nature.jpg)
+* [Ноутбук](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/sem_b_3.ipynb)
 
 ## Полезные ссылки
 * [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
