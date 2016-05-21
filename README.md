@@ -29,10 +29,12 @@
 * Домашнее задание 5 (материалы на почте). Выдано 06.05.16, дедлайн __23:59 ~~20.05.16~~ 22.05.16__.
 
 ## Проекты
-* [Информация про проекты](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Projects_info.md)
+* [Информация про проекты: UPDATED 21.05.16](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Projects_info.md)
 * [Материалы первой консультации (подготовка и визуализация данных)](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/projects_cons1.ipynb)
 * [Данные для предсказания зарплаты](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/salary_project.md)
 * __Дедлайн по первой части проекта:__ 10 апреля (позже сдать будет нельзя).
+* __Первое задание второго модуля:__ пункт 1 до 23:59 29.05.16 (заполнение таблицы), пункты 2 и 3 до 23:59 05.06.16 (сдача ноутбука на почту)
+*  __Второе (финальное) задание второго модуля:__ до 23:59 19.06.16
 
 ## План семинаров (первый модуль):
 
