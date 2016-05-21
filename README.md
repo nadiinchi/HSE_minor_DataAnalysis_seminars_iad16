@@ -82,7 +82,8 @@ __семинар 12.__ Decision Trees
 * [Ноутбук с семинара](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/seminar_b1.ipynb)
 
 __Семинар 13.__ Методы отбора признаков и понижения размерности
-* (скоро добавим материалы)
+* [Ноутбук](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/RF_PCA_sem.ipynb)
+* [Данные](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/RF_PCA_train.csv)
 
 __Семинар 14.__ K-means своими руками.
 * [Данные](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/sem_b3_coord.csv)
