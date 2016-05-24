@@ -27,6 +27,7 @@
 * Домашнее задание 3 (материалы на почте). Выдано 14.03.16, дедлайн __23:59 27.03.16__.
 * Домашнее задание 4 было не обязательным.
 * Домашнее задание 5 (материалы на почте). Выдано 06.05.16, дедлайн __23:59 ~~20.05.16~~ 22.05.16__.
+* [Домашнее задание 6](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/HW6.ipynb) Выдано 24.05.2016, дедлайн __23:59 31.05.2016__.
 
 ## Проекты
 * [Информация про проекты: UPDATED 21.05.16](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Projects_info.md)
