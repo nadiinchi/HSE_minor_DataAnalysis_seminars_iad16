@@ -93,6 +93,9 @@ __Семинар 14.__ K-means своими руками.
 * [Пейзаж](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/sem_b3_nature.jpg)
 * [Ноутбук](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/sem_b_3.ipynb)
 
+__Семинар 15.__ Решение задач по деревьям, композициям и метрическим методам.
+* [Конспект](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Seminar_b5.pdf)
+* 
 ## Полезные ссылки
 * [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
 * [Видеозаписи курса лекций К. В. Воронцова](https://yandexdataschool.ru/edu-process/courses/machine-learning)
