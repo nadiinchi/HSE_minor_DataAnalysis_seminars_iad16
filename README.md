@@ -98,7 +98,8 @@ __Семинар 15.__ Решение задач по деревьям, комп
 * [Конспект](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Seminar_b5.pdf)
 
 __Семинар 16.__ Поиск ассоциативных правил
-* [Ноутбук](https://shad.people.yandex.net/notebooks/16/Example/AssocRules/AssocRules_sem.ipynb)
+* [Ноутбук](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/AssocRules_sem.ipynb)
+* [Данные](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/cook.json)
 
 
 ## Полезные ссылки
